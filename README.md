@@ -2,7 +2,7 @@
 
 ## IMPORTANT NOTICE
 
-This code is simple an import from Forcepoint's fp-ngfw-exporter tool available at
+This code is simply an import from Forcepoint's `fp-ngfw-exporter` tool available at
 https://frcpnt.com/ngfw-sentinel-latest
 
 This code is not mine.
